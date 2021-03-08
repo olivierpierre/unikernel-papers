@@ -3,7 +3,6 @@
 This repository is a list of all systems paper regarding the topic of unikernels.
 
 ## Papers
-Here is a list of papers talking about unikernels:
 - https://www.sciencedirect.com/science/article/pii/S0167739X17329734
 - [**My VM is Lighter (and Safer) than your Container**](http://sysml.neclab.eu/projects/lightvm/lightvm.pdf), _SOSP17_
 - [**Unikernels: Library Operating Systems for the Cloud**](http://anil.recoil.org/papers/2013-asplos-mirage.pdf), _ASPLOS13_ (MirageOS)
