@@ -44,8 +44,9 @@ Appliances**](https://www.atiner.gr/papers/COM2017-2327.pdf)
 - [**Iso-UniK: lightweight multi-process unikernel through memory protection keys**]( https://cybersecurity.springeropen.com/articles/10.1186/s42400-020-00051-9) 
 - [**A Linux in Unikernel Clothing**](https://hckuo.github.io/pdfs/lupine.pdf) Eurosys'20
 - [**SEUSS: skip redundant paths to make serverless fast**](https://dl.acm.org/doi/abs/10.1145/3342195.3392698) Eurosys'20
-- [**KylinX: A Dynamic Library Operating System for Simplified and Efficient Cloud Virtualization**](https://www.usenix.org/system/files/conference/atc18/atc18-zhang-yiming.pdf) ATC'18
-- [**The Serverkernel Operating System**](https://dl.acm.org/doi/pdf/10.1145/3378679.3394537) EdgeSys '20
+- [**KylinX: A Dynamic Library Operating System for Simplified and Efficient Cloud Virtualization**](https://www.usenix.org/system/files/conference/atc18/atc18-zhang-yiming.pdf) _ATC'18_
+- [**The Serverkernel Operating System**](https://dl.acm.org/doi/pdf/10.1145/3378679.3394537) _EdgeSys '20_
+- [**CubicleOS: A Library OS with Software Componentisation for Practical Isolation**](https://asplos-conference.org/abstracts/asplos21-paper486-extended_abstract.pdf) _ASPLOS'21_
 
 ## Misc.
 - A book about unikernels: https://theswissbay.ch/pdf/_to_sort/O'Reilly/unikernels.pdf
