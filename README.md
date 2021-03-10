@@ -17,6 +17,7 @@ This repository is a list of all systems paper regarding the topic of unikernels
 - [**On the Fly TCP Acceleration with Miniproxy**](https://arxiv.org/pdf/1605.06285.pdf), _HotMiddleBox16_
 - [**FADES: Fine-Grained Edge Offloading with Unikernels**](http://dl.acm.org/citation.cfm?id=3094412), _HotConNet17_
 - [**Cooperation and Security Isolation of Library OSes for Multi-Process Applications**](http://spin2013.cs.sunysb.edu/~porter/pubs/tsai14graphene.pdf) _EuroSys 2014_ (Graphene)
+- [**OSv—Optimizing the Operating System for Virtual Machines**](https://www.usenix.org/system/files/conference/atc14/atc14-paper-kivity.pdf), _ATC'14_
 - [**Rethinking the Library OS from the Top Down**](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos2011-drawbridge.pdf), _ASPLOS11_ (Drawbridge)
 - [**Enterprise IoT security and scalability: how unikernels can improve the status Quo**](http://aura.abdn.ac.uk/bitstream/handle/2164/7988/PID4488667.pdf), _UUC16_
 - [**Making the Case for Highly Efficient Multicore Enabled Unikernels With IncludeOS**](https://s3.amazonaws.com/academia.edu.documents/51935992/cloud_computing_2017_full.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1506032443&Signature=rG0TWnFneEUY7Ik%2FmPCbvMBiMvs%3D&response-content-disposition=inline%3B%20filename%3DCLOUD_COMPUTING_2017_Athens_Greece_CLOUD.pdf#page=21), _CLOUD COMPUTING 17_
