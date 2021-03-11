@@ -47,6 +47,9 @@ Appliances**](https://www.atiner.gr/papers/COM2017-2327.pdf)
 - [**KylinX: A Dynamic Library Operating System for Simplified and Efficient Cloud Virtualization**](https://www.usenix.org/system/files/conference/atc18/atc18-zhang-yiming.pdf) _ATC'18_
 - [**The Serverkernel Operating System**](https://dl.acm.org/doi/pdf/10.1145/3378679.3394537) _EdgeSys '20_
 - [**CubicleOS: A Library OS with Software Componentisation for Practical Isolation**](https://asplos-conference.org/abstracts/asplos21-paper486-extended_abstract.pdf) _ASPLOS'21_
+- [**Unikernels as Processes**](https://dl.acm.org/doi/10.1145/3267809.3267845), _SOCC'18_
+- [**PHP2Uni: Building Unikernels Using Scripting Language Transpilation**](https://ieeexplore.ieee.org/abstract/document/7923803/authors#authors), _IC2E'17_
+- [**USETL: Unikernels for Serverless Extract Transform and Load Why should you settle for less?**](https://dl.acm.org/doi/abs/10.1145/3343737.3343750), _APSys'18_
 
 ## Misc.
 - A book about unikernels: https://theswissbay.ch/pdf/_to_sort/O'Reilly/unikernels.pdf
