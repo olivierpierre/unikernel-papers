@@ -50,6 +50,7 @@ Appliances**](https://www.atiner.gr/papers/COM2017-2327.pdf)
 - [**Unikernels as Processes**](https://dl.acm.org/doi/10.1145/3267809.3267845), _SOCC'18_
 - [**PHP2Uni: Building Unikernels Using Scripting Language Transpilation**](https://ieeexplore.ieee.org/abstract/document/7923803/authors#authors), _IC2E'17_
 - [**USETL: Unikernels for Serverless Extract Transform and Load Why should you settle for less?**](https://dl.acm.org/doi/abs/10.1145/3343737.3343750), _APSys'18_
+- [**Unikernels: The Next Stage of Linux's Dominance**](https://dl.acm.org/doi/10.1145/3317550.3321445), _HotOS'19_
 
 ## Misc.
 - A book about unikernels: https://theswissbay.ch/pdf/_to_sort/O'Reilly/unikernels.pdf
