@@ -52,6 +52,7 @@ Appliances**](https://www.atiner.gr/papers/COM2017-2327.pdf)
 - [**USETL: Unikernels for Serverless Extract Transform and Load Why should you settle for less?**](https://dl.acm.org/doi/abs/10.1145/3343737.3343750), _APSys'18_
 - [**Unikernels: The Next Stage of Linux's Dominance**](https://dl.acm.org/doi/10.1145/3317550.3321445), _HotOS'19_
 - [**Intra-Unikernel Isolation with Intel Memory Protection Keys**](https://www.ssrg.ece.vt.edu/papers/vee20-mpk.pdf), _VEE'20_
+- [**FlexOS: Making OS Isolation Flexible**](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s05-lefeuvre.pdf), _HotOS'21_
 
 ## Misc.
 - A book about unikernels: https://theswissbay.ch/pdf/_to_sort/O'Reilly/unikernels.pdf
