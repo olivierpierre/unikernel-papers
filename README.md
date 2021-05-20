@@ -50,6 +50,7 @@ Appliances**](https://www.atiner.gr/papers/COM2017-2327.pdf)
 - [**Unikernels as Processes**](https://dl.acm.org/doi/10.1145/3267809.3267845), _SOCC'18_
 - [**PHP2Uni: Building Unikernels Using Scripting Language Transpilation**](https://ieeexplore.ieee.org/abstract/document/7923803/authors#authors), _IC2E'17_
 - [**USETL: Unikernels for Serverless Extract Transform and Load Why should you settle for less?**](https://dl.acm.org/doi/abs/10.1145/3343737.3343750), _APSys'18_
+- [**An architecture for interspatial communication**](https://ieeexplore.ieee.org/abstract/document/8406931), _INFOCOM'18_
 - [**Unikernels: The Next Stage of Linux's Dominance**](https://dl.acm.org/doi/10.1145/3317550.3321445), _HotOS'19_
 - [**Intra-Unikernel Isolation with Intel Memory Protection Keys**](https://www.ssrg.ece.vt.edu/papers/vee20-mpk.pdf), _VEE'20_
 - [**FlexOS: Making OS Isolation Flexible**](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s05-lefeuvre.pdf), _HotOS'21_
@@ -66,5 +67,4 @@ http://www.brendangregg.com/blog/2016-01-27/unikernel-profiling-from-dom0.html
   - There is also the X-ray profiler used in HermitCore: https://github.com/RWTH-OS/HermitCore/tree/master/usr/xray
 - Master thesis about unikernels and DevOps/CI/testing pipeline:  https://www.duo.uio.no/bitstream/handle/10852/59234/final_complete_version_2017_08_01.pdf?sequence=1
 - Not published paper? https://www.researchgate.net/profile/Bob_Duncan/publication/323295473_Using_Unikernels_to_Address_the_Cloud_Forensic_Problem_and_help_Achieve_EU_GDPR_Compliance/links/5a8c97cca6fdcc786eafd9dc/Using-Unikernels-to-Address-the-Cloud-Forensic-Problem-and-help-Achieve-EU-GDPR-Compliance.pdf
-- Paper from MirageOS guys, not published yet I guess: http://kcsrk.info/papers/osmose_feb_18.pdf
 - Small comparison unikernels and containers: http://domino.research.ibm.com/library/cyberdig.nsf/papers/3C9700C7A7C21C4785258218006F5D7D/$File/H-0330.pdf
