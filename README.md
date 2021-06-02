@@ -55,6 +55,7 @@ Appliances**](https://www.atiner.gr/papers/COM2017-2327.pdf)
 - [**Intra-Unikernel Isolation with Intel Memory Protection Keys**](https://www.ssrg.ece.vt.edu/papers/vee20-mpk.pdf), _VEE'20_
 - [**FlexOS: Making OS Isolation Flexible**](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s05-lefeuvre.pdf), _HotOS'21_
 - [**Towards Highly Specialized, POSIX-compliant Software Stacks with Unikraft: Work-in-Progress**](https://pub.nderjung.net/papers/emsoft20.pdf) _EMSOFT'20_ (Unikraft)
+- [**Unikraft: fast, specialized unikernels the easy way**](https://dl.acm.org/doi/abs/10.1145/3447786.3456248) _EuroSys'21_ (Unikraft)
 
 ## Misc.
 - A book about unikernels: https://theswissbay.ch/pdf/_to_sort/O'Reilly/unikernels.pdf
