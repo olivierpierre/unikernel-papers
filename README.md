@@ -54,7 +54,7 @@ Appliances**](https://www.atiner.gr/papers/COM2017-2327.pdf)
 - [**Unikernels: The Next Stage of Linux's Dominance**](https://dl.acm.org/doi/10.1145/3317550.3321445), _HotOS'19_
 - [**Intra-Unikernel Isolation with Intel Memory Protection Keys**](https://www.ssrg.ece.vt.edu/papers/vee20-mpk.pdf), _VEE'20_
 - [**FlexOS: Making OS Isolation Flexible**](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s05-lefeuvre.pdf), _HotOS'21_
-- [**https://pub.nderjung.net/papers/emsoft20.pdf**](https://pub.nderjung.net/papers/emsoft20.pdf) _EMSOFT'20_ (Unikraft)
+- [**Towards Highly Specialized, POSIX-compliant Software Stacks with Unikraft: Work-in-Progress**](https://pub.nderjung.net/papers/emsoft20.pdf) _EMSOFT'20_ (Unikraft)
 
 ## Misc.
 - A book about unikernels: https://theswissbay.ch/pdf/_to_sort/O'Reilly/unikernels.pdf
