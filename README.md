@@ -57,7 +57,7 @@ Appliances**](https://www.atiner.gr/papers/COM2017-2327.pdf)
 - [**Towards Highly Specialized, POSIX-compliant Software Stacks with Unikraft: Work-in-Progress**](https://pub.nderjung.net/papers/emsoft20.pdf) _EMSOFT'20_ (Unikraft)
 - [**Unikraft: fast, specialized unikernels the easy way**](https://dl.acm.org/doi/abs/10.1145/3447786.3456248) _EuroSys'21_ (Unikraft)
 - [**Wayfinder: towards automatically deriving optimal OS configurations**](https://eprints.lancs.ac.uk/id/eprint/157674/2/apsys21_final10.pdf) _APSys'21_
-- [**FlexOS: Towards Flexible OS Isolation**](https://arxiv.org/pdf/2112.06566.pdf)
+- [**FlexOS: Towards Flexible OS Isolation**](https://arxiv.org/pdf/2112.06566.pdf) _ASPLOS'22_
 
 ## Misc.
 - A book about unikernels: https://theswissbay.ch/pdf/_to_sort/O'Reilly/unikernels.pdf
