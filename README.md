@@ -17,6 +17,7 @@ This repository is a list of all systems papers regarding the topic of unikernel
 ### 2020
 - [**Towards Highly Specialized, POSIX-compliant Software Stacks with Unikraft: Work-in-Progress**](https://pub.nderjung.net/papers/emsoft20.pdf) _EMSOFT'20_ (Unikraft)
 - [**Intra-Unikernel Isolation with Intel Memory Protection Keys**](https://www.ssrg.ece.vt.edu/papers/vee20-mpk.pdf), _VEE'20_
+- [**A security perspective on Unikernels**](https://ieeexplore.ieee.org/document/9138883), _IEEE Cyber Security 2020_
 
 ### 2019
 - [**Unikernels: The Next Stage of Linux's Dominance**](https://dl.acm.org/doi/10.1145/3317550.3321445), _HotOS'19_
