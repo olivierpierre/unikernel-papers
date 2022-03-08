@@ -3,7 +3,7 @@
 This repository is a list of all systems papers regarding the topic of unikernels. Feel free to contribute with a pull request!
 
 ## Papers
-- https://www.sciencedirect.com/science/article/pii/S0167739X17329734
+- [**Android Unikernel: Gearing mobile code offloading towards edge computing**](https://www.sciencedirect.com/science/article/pii/S0167739X17329734), _FGCS 2018_
 - [**My VM is Lighter (and Safer) than your Container**](http://sysml.neclab.eu/projects/lightvm/lightvm.pdf), _SOSP17_
 - [**Unikernels: Library Operating Systems for the Cloud**](http://anil.recoil.org/papers/2013-asplos-mirage.pdf), _ASPLOS13_ (MirageOS)
 - [**Unikernels: Rise of the Virtual Library Operating System**](http://queue.acm.org/detail.cfm?id=2566628), _ACM Queue 2014_ (MirageOS)
