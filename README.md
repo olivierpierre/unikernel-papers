@@ -18,7 +18,7 @@ This repository is a list of all systems papers regarding the topic of unikernel
 - [**Binary-Compatibility with Linux Application for a Unikernel Written in Rust (1)**](https://github.com/ssrg-vt/hermitux/wiki/files/christopher-densham-project-report.pdf) (BS project report)
 - [**Binary-Compatibility with Linux Application for a Unikernel Written in Rust (2)**](https://github.com/ssrg-vt/hermitux/wiki/files/laurent-pool-project-report.pdf) (BS project report)
 - [**Applying OS Fuzzing Techniques to Unikernels,**](https://github.com/ssrg-vt/hermitux/wiki/files/oliver-dunk-project-report.pdf) (BS project report)
-- [**Evaluating unikernels for HPC applications**](https://github.com/ssrg-vt/hermitux/wiki/files/jacquot-pierre-graduation-project.pdf)
+- [**Evaluating unikernels for HPC applications**](https://github.com/ssrg-vt/hermitux/wiki/files/jacquot-pierre-graduation-project.pdf) (MS thesis)
 
 ### 2020
 - [**Towards Highly Specialized, POSIX-compliant Software Stacks with Unikraft: Work-in-Progress**](https://pub.nderjung.net/papers/emsoft20.pdf) _EMSOFT'20_ (Unikraft)
