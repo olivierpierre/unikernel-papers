@@ -27,7 +27,8 @@ This repository is a list of all systems papers regarding the topic of unikernel
 - [**A security perspective on Unikernels**](https://ieeexplore.ieee.org/document/9138883), _IEEE Cyber Security 2020_
 - [**Iso-UniK: lightweight multi-process unikernel through memory protection keys**]( https://cybersecurity.springeropen.com/articles/10.1186/s42400-020-00051-9) _Springer Cybersecurity 2020_
 - [**SEUSS: skip redundant paths to make serverless fast**](https://dl.acm.org/doi/abs/10.1145/3342195.3392698) Eurosys'20
-- [**The Serverkernel Operating System**](https://dl.acm.org/doi/pdf/10.1145/3378679.3394537) _EdgeSys '20_
+- [**The Serverkernel Operating System**](https://dl.acm.org/doi/pdf/10.1145/3378679.3394537) _EdgeSys'20_
+- [**The Case for Intra-Unikernel Isolation**](https://www.ssrg.ece.vt.edu/papers/spma20.pdf), _SPMA'20_
 
 ### 2019
 - [**A Binary-Compatible Unikernel**](https://www.ssrg.ece.vt.edu/papers/vee2019.pdf), _VEE'19_ (HermiTux)
