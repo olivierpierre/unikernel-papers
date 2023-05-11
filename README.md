@@ -4,6 +4,10 @@ This repository is a list of all systems papers regarding the topic of unikernel
 
 ## Papers
 
+### 2023
+- [**Nephele: Extending Virtualization Environments for Cloning Unikernel-based VMs**](http://nets.cs.pub.ro/~costin/files/nephele.pdf), _EuroSys'23_
+- [**Unikernel Linux (UKL)**](https://dl.acm.org/doi/10.1145/3552326.3587458)
+
 ### 2022
 
 - [**KASLR in the age of MicroVMs**](https://dl.acm.org/doi/10.1145/3492321.3519578), _EuroSys'22_
