@@ -36,11 +36,12 @@ This repository is a list of all systems papers regarding the topic of unikernel
 - [**SEUSS: skip redundant paths to make serverless fast**](https://dl.acm.org/doi/abs/10.1145/3342195.3392698) Eurosys'20
 - [**The Serverkernel Operating System**](https://dl.acm.org/doi/pdf/10.1145/3378679.3394537) _EdgeSys'20_
 - [**The Case for Intra-Unikernel Isolation**](https://www.ssrg.ece.vt.edu/papers/spma20.pdf), _SPMA'20_
-- [**RustyHermit: A Scalable, Rust-Based Virtual Execution Environment**](https://link.springer.com/chapter/10.1007/978-3-030-59851-8_22), _ISC High Performance 2020_
+- [**RustyHermit: A Scalable, Rust-Based Virtual Execution Environment**](https://link.springer.com/chapter/10.1007/978-3-030-59851-8_22), _ISC High Performance 2020_ (RustyHermit)
 
 ### 2019
 - [**A Binary-Compatible Unikernel**](https://www.ssrg.ece.vt.edu/papers/vee2019.pdf), _VEE'19_ (HermiTux)
 - [**Unikernels: The Next Stage of Linux's Dominance**](https://dl.acm.org/doi/10.1145/3317550.3321445), _HotOS'19_
+- [**Exploring Rust for Unikernel Development**], _PLOS'19_ (RustyHermit)
 
 ### 2018
 - [**Android Unikernel: Gearing mobile code offloading towards edge computing**](https://www.sciencedirect.com/science/article/pii/S0167739X17329734), _FGCS 2018_
@@ -73,6 +74,7 @@ This repository is a list of all systems papers regarding the topic of unikernel
 - [**Running Multi-Process Applications on Unikernel-based VMs**](https://orum.in/sosp2017-mkanatsu-abstract.pdf) _SOSP17 Poster_ ([Poster](https://orum.in/sosp2017-mkanatsu-poster.pdf))
 - [**Enhancing Cloud Security and Privacy: The Unikernel Solution**](http://aura.abdn.ac.uk/bitstream/handle/2164/8524/AAB02.pdf) _Cloud Computing 2017_
 - [**PHP2Uni: Building Unikernels Using Scripting Language Transpilation**](https://ieeexplore.ieee.org/abstract/document/7923803/authors#authors), _IC2E'17_
+- [**A Low Noise Unikernel for Extrem-Scale Systems**](https://link.springer.com/chapter/10.1007/978-3-319-54999-6_6) _ARCS'17_ (HermitCore)
 - [**A model for increasing the performance of an automated testing pipeline**](https://www.duo.uio.no/bitstream/handle/10852/59234/final_complete_version_2017_08_01.pdf?sequence=1) (MS thesis)
 - [**Live Updating in Unikernels**](https://www.duo.uio.no/bitstream/handle/10852/59240/live-updating-unikernels.pdf?sequence=45) (MS thesis)
 
