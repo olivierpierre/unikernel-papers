@@ -36,7 +36,7 @@ This repository is a list of all systems papers regarding the topic of unikernel
 - [**SEUSS: skip redundant paths to make serverless fast**](https://dl.acm.org/doi/abs/10.1145/3342195.3392698) Eurosys'20
 - [**The Serverkernel Operating System**](https://dl.acm.org/doi/pdf/10.1145/3378679.3394537) _EdgeSys'20_
 - [**The Case for Intra-Unikernel Isolation**](https://www.ssrg.ece.vt.edu/papers/spma20.pdf), _SPMA'20_
-- [**RustyHermit: A Scalable, Rust-Based Virtual Execution Environment**](https://link.springer.com/chapter/10.1007/978-3-030-59851-8_22)
+- [**RustyHermit: A Scalable, Rust-Based Virtual Execution Environment**](https://link.springer.com/chapter/10.1007/978-3-030-59851-8_22), _ISC High Performance 2020_
 
 ### 2019
 - [**A Binary-Compatible Unikernel**](https://www.ssrg.ece.vt.edu/papers/vee2019.pdf), _VEE'19_ (HermiTux)
