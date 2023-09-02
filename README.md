@@ -41,7 +41,7 @@ This repository is a list of all systems papers regarding the topic of unikernel
 ### 2019
 - [**A Binary-Compatible Unikernel**](https://www.ssrg.ece.vt.edu/papers/vee2019.pdf), _VEE'19_ (HermiTux)
 - [**Unikernels: The Next Stage of Linux's Dominance**](https://dl.acm.org/doi/10.1145/3317550.3321445), _HotOS'19_
-- [**Exploring Rust for Unikernel Development**], _PLOS'19_ (RustyHermit)
+- [**Exploring Rust for Unikernel Development**](https://dl.acm.org/doi/10.1145/3365137.3365395), _PLOS'19_ (RustyHermit)
 
 ### 2018
 - [**Android Unikernel: Gearing mobile code offloading towards edge computing**](https://www.sciencedirect.com/science/article/pii/S0167739X17329734), _FGCS 2018_
