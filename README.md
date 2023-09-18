@@ -7,6 +7,7 @@ This repository is a list of all systems papers regarding the topic of unikernel
 ### 2023
 - [**Nephele: Extending Virtualization Environments for Cloning Unikernel-based VMs**](http://nets.cs.pub.ro/~costin/files/nephele.pdf), _EuroSys'23_
 - [**Unikernel Linux (UKL)**](https://dl.acm.org/doi/10.1145/3552326.3587458), _EuroSys'23_
+- [**Assessing Scalability and Performance Isolation of Lightweight Virtualization Systems**](https://github.com/olivierpierre/unikernel-papers/files/12648020/andrej-velichkovski-report.pdf) (BSc project report)
 
 ### 2022
 
@@ -22,9 +23,9 @@ This repository is a list of all systems papers regarding the topic of unikernel
 - [**FlexOS: Making OS Isolation Flexible**](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s05-lefeuvre.pdf), _HotOS'21_
 - [**KylinX: Simplified Virtualization Architecture for Specialized Virtual Appliances with Strong Isolation**](https://dl.acm.org/doi/10.1145/3436512), _ACM TOCS 2021_
 - [**CubicleOS: A Library OS with Software Componentisation for Practical Isolation**](https://lsds.doc.ic.ac.uk/sites/default/files/sartakov%4021cubicleos.pdf) _ASPLOS'21_
-- [**Binary-Compatibility with Linux Application for a Unikernel Written in Rust (1)**](https://github.com/ssrg-vt/hermitux/wiki/files/christopher-densham-project-report.pdf) (BS project report)
-- [**Binary-Compatibility with Linux Application for a Unikernel Written in Rust (2)**](https://github.com/ssrg-vt/hermitux/wiki/files/laurent-pool-project-report.pdf) (BS project report)
-- [**Applying OS Fuzzing Techniques to Unikernels,**](https://github.com/ssrg-vt/hermitux/wiki/files/oliver-dunk-project-report.pdf) (BS project report)
+- [**Binary-Compatibility with Linux Application for a Unikernel Written in Rust (1)**](https://github.com/ssrg-vt/hermitux/wiki/files/christopher-densham-project-report.pdf) (BSc project report)
+- [**Binary-Compatibility with Linux Application for a Unikernel Written in Rust (2)**](https://github.com/ssrg-vt/hermitux/wiki/files/laurent-pool-project-report.pdf) (BSc project report)
+- [**Applying OS Fuzzing Techniques to Unikernels,**](https://github.com/ssrg-vt/hermitux/wiki/files/oliver-dunk-project-report.pdf) (BSc project report)
 - [**Evaluating unikernels for HPC applications**](https://github.com/ssrg-vt/hermitux/wiki/files/jacquot-pierre-graduation-project.pdf) (MS thesis)
 
 ### 2020
