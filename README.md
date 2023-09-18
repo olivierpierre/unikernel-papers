@@ -8,6 +8,7 @@ This repository is a list of all systems papers regarding the topic of unikernel
 - [**Nephele: Extending Virtualization Environments for Cloning Unikernel-based VMs**](http://nets.cs.pub.ro/~costin/files/nephele.pdf), _EuroSys'23_
 - [**Unikernel Linux (UKL)**](https://dl.acm.org/doi/10.1145/3552326.3587458), _EuroSys'23_
 - [**Assessing Scalability and Performance Isolation of Lightweight Virtualization Systems**](https://github.com/olivierpierre/unikernel-papers/files/12648020/andrej-velichkovski-report.pdf) (BSc project report)
+- [**Exploring Unikernels for Serverless Computing**](https://github.com/olivierpierre/unikernel-papers/files/12648143/nathan-jones-report.pdf) (BSc project report)
 
 ### 2022
 
