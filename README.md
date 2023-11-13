@@ -5,6 +5,7 @@ This repository is a list of all systems papers regarding the topic of unikernel
 ## Papers
 
 ### 2023
+- [**GPU Acceleration in Unikernels Using Cricket GPU Virtualization**](https://doi.org/10.1145/3624062.3624236), _SC-W 2023_
 - [**Nephele: Extending Virtualization Environments for Cloning Unikernel-based VMs**](http://nets.cs.pub.ro/~costin/files/nephele.pdf), _EuroSys'23_
 - [**Unikernel Linux (UKL)**](https://dl.acm.org/doi/10.1145/3552326.3587458), _EuroSys'23_ (UKL)
 - [**Software Compartmentalization Trade-Offs with Hardware Capabilities**](https://arxiv.org/abs/2309.11332), _PLOS'23_ (FlexOS)
