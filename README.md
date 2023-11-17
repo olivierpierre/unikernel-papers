@@ -4,6 +4,9 @@ This repository is a list of all systems papers regarding the topic of unikernel
 
 ## Papers
 
+### 2024
+- [**Loupe: Driving the Development of OS Compatibility Layers**](https://arxiv.org/abs/2309.15996), _ASPLOS'24_
+
 ### 2023
 - [**GPU Acceleration in Unikernels Using Cricket GPU Virtualization**](https://doi.org/10.1145/3624062.3624236), _SC-W 2023_
 - [**Nephele: Extending Virtualization Environments for Cloning Unikernel-based VMs**](http://nets.cs.pub.ro/~costin/files/nephele.pdf), _EuroSys'23_
