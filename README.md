@@ -7,6 +7,7 @@ This repository is a list of all systems papers regarding the topic of unikernel
 ### 2024
 - [**Loupe: Driving the Development of OS Compatibility Layers**](https://arxiv.org/abs/2309.15996), _ASPLOS'24_
 - [**Reboot-based Recovery of Unikernels at the Component Level**](https://dsn2024uq.github.io/Proceedings/pdfs/DSN2024-6rvE3SSpzFYmysif75Dkid/410500a015/410500a015.pdf), _DSN'24_
+- [**Cloud-Native Database Systems and Unikernels: Reimagining OS Abstractions for Modern Hardware**](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/cumulus.pdf), _VLDB'24_
 
 ### 2023
 - [**GPU Acceleration in Unikernels Using Cricket GPU Virtualization**](https://doi.org/10.1145/3624062.3624236), _SC-W 2023_
