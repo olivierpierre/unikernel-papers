@@ -4,6 +4,9 @@ This repository is a list of all systems papers regarding the topic of unikernel
 
 ## Papers
 
+### 2025
+- [**UniContainer: Unlocking the Potential of Unikernel for Secure and Efficient Containerization**](https://dl.acm.org/doi/10.1145/3727134), _SIGMETRICS'25_
+
 ### 2024
 - [**Loupe: Driving the Development of OS Compatibility Layers**](https://arxiv.org/abs/2309.15996), _ASPLOS'24_
 - [**Reboot-based Recovery of Unikernels at the Component Level**](https://dsn2024uq.github.io/Proceedings/pdfs/DSN2024-6rvE3SSpzFYmysif75Dkid/410500a015/410500a015.pdf), _DSN'24_
