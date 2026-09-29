@@ -6,6 +6,8 @@ This repository is a list of all systems papers regarding the topic of unikernel
 
 ### 2026
 - [**Hardening the OSv Unikernel with Efficient Address Randomization: Design and Performance Evaluation**](https://scholar.dsu.edu/cgi/viewcontent.cgi?article=1284&context=ccspapers), _International Symposium on Digital Forensics and Security_
+- [**Dissecting the Performance Impact of System Calls**](https://dl.acm.org/doi/10.1145/3831586.3838146), _PLOS'26_
+- [**Blink and you miss it — VMM-OS Co-Design for Millisecond Boot of Isolated Serverless Applications**](https://dl.acm.org/doi/10.1145/3831586.3838151), _PLOS'26_
 
 ### 2025
 - [**μFork: Supporting POSIX fork Within a Single-Address-Space OS**](https://arxiv.org/pdf/2509.09439), _SOSP'25_
